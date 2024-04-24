@@ -8,7 +8,7 @@
 
 ### Thanks! for visiting, You are visitor number :
 
-![Visitor Count](https://profile-counter.glitch.me/{MayankaGulati}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{avirajput26}/count.svg)
 
 <!-- intro -->
 
@@ -61,7 +61,7 @@ I am a software developer, currently working with private organization as SDE-I.
 </p>
 
 <!--
-**MayankaGulati/MayankaGulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**avirajput26/avirajput26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
